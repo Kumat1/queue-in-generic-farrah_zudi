@@ -17,10 +17,11 @@ public class GenericQueueArrayHasil {
         System.out.println(queue.dequeue());
         System.out.println(queue.dequeue());
 
-        queue.enqueue(20);
+        queue.enqueue(16);
 
         System.out.println(queue.dequeue());
 
+        
 
 
 
